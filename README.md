@@ -7,10 +7,10 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JordanJenkins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: (https://www.linkedin.com/in/jordanbjenkins-0830/)
+[linkedin]: https://www.linkedin.com/in/jordanbjenkins-0830/
 
 <!--
 **jordanj0830/jordanj0830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
