@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>[Creating a Live SOC/Honeynet] (https://github.com/jordanj0830/Azure-SOC)</b>
+[Creating a Live SOC/Honeynet](https://github.com/jordanj0830/Azure-SOC)
 
 <h2> 🤳 Connect with me:</h2>
 
