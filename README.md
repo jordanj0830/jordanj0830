@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Creating a Live SOC/Honeynet (https://github.com/jordanj0830/Azure-SOC)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
